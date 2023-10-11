@@ -15,7 +15,7 @@
     "type": "MOBILE"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "MOBILE"
   },
   "applicationVersion": 2,
   "isManualUpdate": false,
